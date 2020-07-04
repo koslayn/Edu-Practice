@@ -39,7 +39,7 @@ def solution(n):
 
     return roman_str
 
-# print(solution(89))
+print(solution(89))
 
 assert solution(1) == 'I'
 assert solution(4) == 'IV'
