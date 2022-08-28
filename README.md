@@ -1,4 +1,7 @@
 # Мини практика
+* 2022-08-28. Reinforcement Learning. Pong. tf-agent
+  * [Обучение с подкреплением. Q learning. Pong (Atari). На tf-agent](./rf-reinforcement-learning-pong-tf-agent.ipynb)
+    * [Блокнот на Kaggle](https://www.kaggle.com/code/koslayn/rf-reinforcement-learning-pong-tf-agent/)
 * 2022-08-12. Обучение чат-бота на диалогах из фильмов.
   * [Подготовка данных: TFRecord](./NLP-MovieDialog-ChatBot-DataPipline-seq2seq.ipynb),
     * [Блокнот на Kaggle](https://www.kaggle.com/code/koslayn/nlp-moviedialog-chatbot-train-inf-seq2seq)
